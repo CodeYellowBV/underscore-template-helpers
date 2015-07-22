@@ -1,10 +1,10 @@
 {
-    "name": "underscore-template-helpers",
-    "version": "0.0.1",
-    "description": "A mixin that allows you to define global helpers for the underscore.js template function.",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/CodeYellowBV/underscore-template-helpers"
-    },
-    "main": "underscore.template-helpers.js"
+  "name": "underscore-template-helpers",
+  "version": "0.0.2",
+  "description": "A mixin that allows you to define global helpers for the underscore.js template function.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeYellowBV/underscore-template-helpers"
+  },
+  "main": "underscore.template-helpers.js"
 }
